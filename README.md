@@ -63,10 +63,18 @@ Antes de começar, você deve ter:
 2. Procure por **"Data Factory"**
 3. Clique em **Criar**
 4. Preencha os campos:
-   - Nome: `meu-data-factory`
-   - Região: mesma do SQL e do Data Lake
+   - Nome: `instancia-data-factory`
+   - Região: East US
    - Grupo de recursos: selecione um existente ou crie um novo
 5. Clique em **Revisar + criar** e depois em **Criar**
+
+#### 📸 Visão da interface no portal
+
+<p align="center">
+  <img src="assets/image_rg.png" alt="Tela de criação do recurso no Azure" width="45%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/image_create_df.png" alt="Tela de criação da instância do Data Factory" width="45%" />
+</p>
 
 
 ### 🔌 Etapa 2: Criar Linked Services (Conexões)
